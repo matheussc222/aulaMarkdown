@@ -18,3 +18,22 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+#oma antes de todo mundo.
+
+**escrito por
+Matheus Carvalho**
+
+Close sidebar
+A engenharia de requisitos envolve várias atividades, incluindo:
+
+Elicitação de Requisitos: Envolve a coleta de informações sobre as necessidades dos usuários, normalmente por meio de entrevistas, workshops, questionários, entre outros métodos.
+
+Análise de Requisitos: Consiste em analisar e entender os requisitos coletados, identificando inconsistências, ambiguidades ou conflitos.
+
+Especificação de Requisitos: Nesta etapa, os requisitos são documentados de forma clara e precisa, utilizando técnicas como diagramas de casos de uso, diagramas de classes, entre outros.
+
+Validação de Requisitos: Os requisitos são revisados para garantir que atendam às necessidades dos usuários e do negócio. Isso pode envolver revisões por pares, prototipagem, simulações, entre outros métodos.
+
+Gestão de Requisitos: Envolve o controle e a manutenção dos requisitos ao longo do ciclo de vida do projeto, garantindo que sejam gerenciados adequadamente e que mudanças sejam controladas.
+
+A engenharia de requisitos é crucial para o sucesso de um projeto de software, pois ajuda a garantir que o produto final atenda às expectativas dos clientes e usuários, além de minimizar o risco de falhas e retrabalho durante o desenvolvimento
