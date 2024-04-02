@@ -37,3 +37,13 @@ Validação de Requisitos: Os requisitos são revisados para garantir que atenda
 Gestão de Requisitos: Envolve o controle e a manutenção dos requisitos ao longo do ciclo de vida do projeto, garantindo que sejam gerenciados adequadamente e que mudanças sejam controladas.
 
 A engenharia de requisitos é crucial para o sucesso de um projeto de software, pois ajuda a garantir que o produto final atenda às expectativas dos clientes e usuários, além de minimizar o risco de falhas e retrabalho durante o desenvolvimento
+
+| Modelo do Carro | Autonomia (km) | Tempo derecarga (horas) | Preço (USD) |
+|-------------------|-----------------|--------------------------|-------------|
+| Tesla Model S     | 600             | 8                        | $80,000     |
+| Nissan gtr-r35    | 350             | 6                        | $40,000     |
+| Chevrolet corvet  | 400             | 7                        | $45,000     |
+| Audi r8 v10       | 400             | 9                        | $70,000     |
+
+<img src="https://cdn3.slideserve.com/6927584/o-processo-de-engenharia-de-requisitos-n.jpg" alt="cachorro sorrindo" width="508px">
+
