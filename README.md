@@ -38,6 +38,8 @@ Gestão de Requisitos: Envolve o controle e a manutenção dos requisitos ao lon
 
 A engenharia de requisitos é crucial para o sucesso de um projeto de software, pois ajuda a garantir que o produto final atenda às expectativas dos clientes e usuários, além de minimizar o risco de falhas e retrabalho durante o desenvolvimento
 
+EXEMPLO:
+
 | Modelo do Carro | Autonomia (km) | Tempo derecarga (horas) | Preço (USD) |
 |-------------------|-----------------|--------------------------|-------------|
 | Tesla Model S     | 600             | 8                        | $80,000     |
