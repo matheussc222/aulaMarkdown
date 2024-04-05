@@ -1,3 +1,4 @@
+versão3 <img src="https://cdn.rammsteinworld.com/uploads/discographie/albums/herzeleid/herzeleid.jpg" width="300px">
 # Aula prática - Markdown
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
